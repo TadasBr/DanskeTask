@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tadas_Brazaitis_Danske.props" />
+</Project>

@@ -1,0 +1,6 @@
+@Tadas_Brazaitis_Danske_HostAddress = http://localhost:5194
+
+GET {{Tadas_Brazaitis_Danske_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
